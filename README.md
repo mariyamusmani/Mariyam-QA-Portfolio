@@ -10,7 +10,7 @@ Welcome to my QA Analyst portfolio showcasing live manual testing projects, UI/U
 | [VWO SaaS App](./VWO-Testing) | A/B Testing & UI Validation | Test Plan, 90+ Test Cases, Bug Report |
 
 ## 🧠 Skills Demonstrated
-Manual Testing • Functional Testing • Regression Testing • UI/UX Validation • Cross-browser Testing • SDLC • STLC • Bug Reporting • Excel • Jira • Chrome DevTools
+Manual Testing • Functional Testing • Regression Testing • UI/UX Validation • Cross-browser Testing • SDLC • STLC • Bug Reporting • Excel • Jira • Chrome DevTools • Bootstrap • HTML • Wireframe Designing • Web and Mobile Designing 
 
 ## 🧩 Tools Used
 Excel | Jira | BrowserStack | Figma | Chrome DevTools
@@ -18,4 +18,4 @@ Excel | Jira | BrowserStack | Figma | Chrome DevTools
 ## 🌟 About Me
 I’m a QA Analyst with 9+ years of professional experience, transitioning from UI/UX Design to Quality Assurance. My goal is to ensure software is both functional and user-friendly through meticulous manual testing and visual validation.
 
-📩 **Connect with me on LinkedIn:** [linkedin.com/in/mariyam-usmani-3246a72](https://www.linkedin.com/in/mariyam-usmani-3246a72)
+📩 **Connect with me on LinkedIn:** [linkedin.com/in/mariyam-usmani-3246a72](https://www.linkedin.com/in/mariyam-usmani-3246a72b/)
