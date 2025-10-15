@@ -125,7 +125,7 @@ Full bug list available in `BugReport_eOffice.xlsx`.
 
 ## 👩‍💻 Author / Contact
 **Mariyam Usmani** — QA Analyst | Manual Testing | UI/UX Validation  
-LinkedIn: https://www.linkedin.com/in/mariyam-usmani-3246a72
+LinkedIn:[ [https://www.linkedin.com/in/mariyam-usmani-3246a72](https://www.linkedin.com/in/mariyam-usmani-3246a72b/)](https://www.linkedin.com/in/mariyam-usmani-3246a72b/)
 
 ---
 
